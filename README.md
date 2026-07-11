@@ -1,4 +1,7 @@
 <img width="2172" height="724" alt="ChatGPT Image Jul 11, 2026, 04_08_31 PM" src="https://github.com/user-attachments/assets/7823b65b-eecb-4864-b744-aacad0e42467" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Linux;Always+Learning+New+Technologies;Building+Real+World+Projects" />
+</p>
 
 # Hi there, I'm Ahad Khan 👋
 
