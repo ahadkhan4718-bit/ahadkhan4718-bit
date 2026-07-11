@@ -3,6 +3,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Linux;Always+Learning+New+Technologies;Building+Real+World+Projects" />
 </p>
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahadkhan4718-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadkhan4718-bit&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 # Hi there, I'm Ahad Khan 👋
 
 ## 🚀 About Me
