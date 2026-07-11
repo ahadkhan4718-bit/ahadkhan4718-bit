@@ -19,6 +19,15 @@ I'm currently focused on developing practical skills in:
 My goal is to become a Cloud Engineer by building real-world projects and continuously improving my skills.
 
 ---
+<p align="center">
+<a href="https://linkedin.com/in/ahad-khan-ak">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ahadkhan4718-bit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ## 🛠️ Tech Stack
 
