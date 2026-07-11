@@ -6,9 +6,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
- <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahadkhan4718-bit&show_icons=true&theme=github_dark&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahadkhan4718-bit&theme=github_dark" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadkhan4718-bit&layout=compact&theme=github_dark&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahadkhan4718-bit&theme=github_dark" />
 </p>
 # Hi there, I'm Ahad Khan 👋
 
