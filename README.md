@@ -1,3 +1,4 @@
+<img width="877" height="877" alt="ChatGPT Image Jul 4, 2026, 08_59_50 PM" src="https://github.com/user-attachments/assets/773e9162-b66b-4a20-ae80-c830f0a5cac6" />
 # Hi there, I'm Ahad Khan 👋
 
 ## 🚀 About Me
