@@ -41,28 +41,11 @@ My goal is to become a Cloud Engineer by building real-world projects and contin
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- HTML
-- CSS
-- JavaScript
-- SQL
+<p align="center">
 
-### Cloud & DevOps
-- AWS
-- Docker
-- Linux
-- Git
-- GitHub Actions
-- Nginx
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,linux,docker,aws,vscode" />
 
-### Currently Learning
-- Terraform
-- Kubernetes
-- CI/CD
-- Cloud Security
-
----
+</p>
 
 ## 📌 Featured Projects
 
