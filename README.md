@@ -47,18 +47,26 @@ My goal is to become a Cloud Engineer by building real-world projects and contin
 
 </p>
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### Employee Management System
-Flask application deployed on AWS EC2 with GitHub Actions.
+### 🏢 Employee Management System
+A full-stack Flask application deployed on AWS EC2 with Nginx, Gunicorn, and GitHub Actions for automated CI/CD.
 
-### Portfolio Website
-Responsive portfolio website built using HTML, CSS and JavaScript.
-
-### Personal Assistant Chatbot
-Python chatbot demonstrating basic automation and conversational logic.
+**Tech Stack:** Flask • Python • AWS EC2 • Nginx • GitHub Actions • Linux
 
 ---
+
+### 🌐 Portfolio Website
+A responsive personal portfolio showcasing my skills, projects, and journey as a Cloud & DevOps Engineer.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+### 🤖 Personal Assistant Chatbot
+A Python-based chatbot that performs basic automation tasks and demonstrates conversational logic.
+
+**Tech Stack:** Python
 
 ## 🌱 2026 Goals
 
